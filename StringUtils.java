@@ -1,2 +1,2 @@
 HI
-This file conatins string related functions
+This file conatins string related functions.
