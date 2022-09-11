@@ -1,2 +1,5 @@
-HI
-This file conatins string related functions.
+HI Mahesh
+updating from dev
+updating from master
+updating status
+updating
